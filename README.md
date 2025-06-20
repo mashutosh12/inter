@@ -11,7 +11,7 @@
 - User login with validation
 - Password hashing
 - JWT authentication
-- Error handling
+  
 
 ## Setup Instructions
 1. Clone the repo
